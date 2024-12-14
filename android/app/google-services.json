@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "test",
+    "project_id": "test",
+    "storage_bucket": "test"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "test",
+        "android_client_info": {
+          "package_name": "test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "test"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
